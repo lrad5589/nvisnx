@@ -1,22 +1,14 @@
 [
   {
     "id": 1,
-    "name": "Carlo"
+    "title": "Post 1"
   },
   {
     "id": 2,
-    "name": "Anadel"
+    "title": "Post 2"
   },
   {
     "id": 3,
-    "name": "Lisa"
-  },
-  {
-    "id": 4,
-    "name": "Joe"
-  },
-  {
-    "id": 5,
-    "name": "Hanna"
+    "title": "Post 3"
   }
 ]
