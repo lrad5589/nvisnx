@@ -1,24 +1,24 @@
 {
-  "posts": [
+  "animals": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "Cow"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "title": "Pig"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "title": "Cat"
     },
     {
       "id": 4,
-      "title": "Post 4"
+      "title": "Dog"
     },
     {
       "id": 5,
-      "title": "Post 5"
+      "title": "Goat"
     }     
   ],
   "comments": [
